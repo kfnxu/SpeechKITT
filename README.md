@@ -80,6 +80,9 @@ For details on all available methods, options and more details, check out the [A
 
 [![Build Status](https://travis-ci.org/TalAter/SpeechKITT.svg?branch=master)](https://travis-ci.org/TalAter/SpeechKITT) [![Dependency Status](https://gemnasium.com/TalAter/SpeechKITT.svg)](https://gemnasium.com/TalAter/SpeechKITT)
 
+## run build
+./run.build.sh
+
 ### Author
 
 Tal Ater: [@TalAter](https://twitter.com/TalAter)
